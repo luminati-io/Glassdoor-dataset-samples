@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Linkedin companies</h2>
 
-![LinkedIn dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/Instagram%20Datasets.png)
+![LinkedIn dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/LinkedIn%20Datasets.png)
 
 A github dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
 
