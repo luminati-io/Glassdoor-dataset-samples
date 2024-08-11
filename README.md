@@ -1,6 +1,6 @@
 # LinkedIn-dataset-samples
 
-<h2>A sample dataset of 1001 Linkedin companies</h2>
+<h2>A sample dataset of 1001 LinkedIn companies</h2>
 
 ![LinkedIn dataset header](https://github.com/luminati-io/LinkedIn-dataset-samples/blob/main/linkedin-datasets.PNG)
 
