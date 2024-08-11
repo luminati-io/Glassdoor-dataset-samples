@@ -38,11 +38,10 @@ Get the full LinkedIn companies dataset on <b>[Bright Data's page](https://brigh
 
 <h2>Additional LinkedIn datasets available:</h2>
 
-*   614,000,000 "Instagram profiles" 
-*   21,100,000 "Instagram posts"
-*   88,800 "Instagram reels"
+*   524,000,000 "LinkedIn people profiles" 
+*   3,100,000 "LinkedIn job listings"
 
-![LinkedIn dataset visual](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/ig_dataset.PNG)
+![LinkedIn dataset visual](https://github.com/luminati-io/Linkedin-dataset-samples/blob/main/linkedin-datasets-image.PNG)
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
