@@ -8,18 +8,18 @@ A github dataset sample of over 1000 companies. Dataset was extracted using the 
 
 <h2>Data points included in this free dataset:</h2>
 
-* id: Unique identifier for the company
-* name: Name of the company
-* country_code: Country code where the company is based
-* locations: Locations of the company
-* followers: Number of followers on LinkedIn
-* employees_in_linkedin: Number of employees listed on LinkedIn
-* about: Description about the company
-* specialties: Company's specialties
-* company_size: Size of the company (number of employees)
-* organization_type: Type of organization
-* industries: Industries the company operates in
-* website: Company's website URL
+* ```id```: Unique identifier for the company
+* ```name```: Name of the company
+* ```country_code```: Country code where the company is based
+* ```locations```: Locations of the company
+* ```followers```: Number of followers on LinkedIn
+* ```employees_in_linkedin```: Number of employees listed on LinkedIn
+* ```about```: Description about the company
+* ```specialties```: Company's specialties
+* ```company_size```: Size of the company (number of employees)
+* ```organization_type```: Type of organization
+* ```industries```: Industries the company operates in
+* ```website```: Company's website URL
 
 And a lot more.
 
@@ -42,6 +42,20 @@ Get the full LinkedIn companies dataset on <b>[Bright Data's page](https://brigh
 *   3,100,000 "LinkedIn job listings"
 
 ![LinkedIn dataset visual](https://github.com/luminati-io/Linkedin-dataset-samples/blob/main/linkedin-datasets-image.PNG)
+
+<h2>What are the LinkedIn datasets use cases?</h2>
+
+<h3>1. Competitive analysis</h3>
+
+Utilize firmographic data to monitor company growth, pinpoint key organizations and professionals, track employee transitions, and enhance competitive intelligence and analysis with greater efficiency.
+
+<h3>2. Market trends & growth</h3>
+
+Assess company growth and industry trends to support data-driven decisions. Hedge funds, VCs, and financial firms can significantly boost their investment analysis using the LinkedIn dataset.
+
+<h3>3. B2B company data</h3>
+
+Enhance your lead generation and sales intelligence by integrating high-quality company and employee data into your CRM, enriched with a comprehensive LinkedIn dataset.
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
