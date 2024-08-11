@@ -1,4 +1,4 @@
-# Linkedin-dataset-samples
+# LinkedIn-dataset-samples
 
 <h2>A sample dataset of 1001 Linkedin companies</h2>
 
