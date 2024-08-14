@@ -34,7 +34,7 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
-Get the full Crunchbase companies dataset on <b>[Bright Data's page](https://brightdata.com/products/datasets/crunchbase)</b>.
+<b>[Get the full Crunchbase companies dataset](https://brightdata.com/products/datasets/crunchbase)</b>.
 
 <h2>Additional Crunchbase subsets available:</h2>
 
