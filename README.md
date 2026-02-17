@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Glassdoor companies reviews</h2>
 
-![Glasdoor dataset header](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/glassdoor">
+   <img src="https://github.com/luminati-io/glassdoor-dataset-samples/blob/main/glassdoor-datasets.png" alt="glassdoor datasets" />
+</a>
 
 A Glassdoor dataset sample of over 1000 companies reviews. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -46,7 +48,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 *   Glassdoor companies overview information
 *   Glassdoor full job listings information
 
-![Glassdoor dataset visual](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/glassdoor">
+   <img src="https://github.com/luminati-io/glassdoor-dataset-samples/blob/main/dataset-promotions.png" alt="glassdoor datasets" />
+</a>
 
 <h2>What are the Glassdoor datasets use cases?</h2>
 
